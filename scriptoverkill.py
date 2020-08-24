@@ -1,4 +1,5 @@
 #MDR 
+#LOL
 from miio import Vacuum
 import os
 import requests
